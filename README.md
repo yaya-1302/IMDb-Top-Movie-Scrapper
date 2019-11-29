@@ -1,5 +1,10 @@
-# Tubes
-Web Scraping pada IMDb
+# IMDb Top Movie Scrapper
+dibuat untuk mengambil data-data di website IMDb, data yang diambil berupa:
+  - judul film
+  - genre
+  - Rating
+  - metascore
+  - votes
 
 ## Dependencies
 1. Python3
